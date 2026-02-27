@@ -1,4 +1,4 @@
-# SungJoon [Last Name], M.Sc.
+# SungJoon Park, M.Sc.
 
 PhD Researcher | Bioinformatics | Multi-omics | Computational Genomics  
 Dresden, Germany  
@@ -7,20 +7,18 @@ Dresden, Germany
 
 ## 🔬 Research Interests
 
-- Multi-omics integration for metabolic diseases
-- Dynamic prediction modeling (UK Biobank)
+- Multi-omics integration analysis
 - Somatic mutation & lineage tracing
-- Single-cell and spatial transcriptomics
-- AI-assisted bioinformatics workflows
+- Diabetes prediction modeling (UK Biobank)
 
 ---
 
 ## 🎓 Education
 
-**PhD in [Program Name]**  
-[University Name], Germany (2025–Present)
+**PhD in Metabolomics**  
+TU Dresden, Germany (2025–Present)
 
-**M.Sc. in [Field]**  
+**M.Sc. in Department of Medical Device Industry**  
 Yonsei University, South Korea  
 
 Thesis: *Genomic Analysis and Lineage Tracing Using Two Sequencing Platforms*
@@ -28,11 +26,6 @@ Thesis: *Genomic Analysis and Lineage Tracing Using Two Sequencing Platforms*
 ---
 
 ## 🧬 Research Experience
-
-### Dynamic Prediction of Glycaemic Transition (UK Biobank)
-- Time-to-event modeling (NG → IFG/IGT → T2D)
-- Integration of ICD codes, HbA1c, and baseline omics
-- Cox models / ML-based risk prediction
 
 ### Multi-omics Diet Intervention Studies
 - PERIMED (Prediabetes / Diabetes / Healthy)
