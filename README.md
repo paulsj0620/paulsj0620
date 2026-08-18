@@ -65,6 +65,6 @@ HPC, Snakemake, Conda/Mamba, Git
 
 ## 📫 Contact
 
-Email: SungJoon.Park@ukdd.de
-LinkedIn: www.linkedin.com/in/paulsj0620
+- Email: SungJoon.Park@ukdd.de
+- LinkedIn: www.linkedin.com/in/paulsj0620
 
